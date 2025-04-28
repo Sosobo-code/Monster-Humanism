@@ -19,8 +19,6 @@ export const metadata = {
     generator: 'v0.dev'
 }
 
-// i hate myself
-
 export default function RootLayout({
   children,
 }: Readonly<{
